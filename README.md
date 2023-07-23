@@ -24,5 +24,7 @@ The following steps will be followed to analyze the UK road accidents data using
 5. Data Analysis: Apply various analytical techniques to uncover insights and relationships within the data. This may involve calculating correlations, conducting regression analysis, and performing statistical tests.
 6. Results Interpretation: Interpret the analysis results and draw meaningful conclusions based on the findings. Identify patterns, trends, and significant factors that contribute to road accidents.
 
+![Dashboard Image](RoadAccident%20Dashboard.jpeg)
+
 ## Conclusion
 This project aims to analyze UK road accidents data using Microsoft Excel. By exploring the dataset, visualizing the data, and conducting analysis, we hope to gain insights into the patterns and factors that contribute to road accidents. The findings and recommendations can be valuable for improving road safety and reducing the number of accidents in the UK.
